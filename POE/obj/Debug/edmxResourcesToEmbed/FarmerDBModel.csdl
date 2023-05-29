@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FarmerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeUsername" />
+    </Key>
+    <Property Name="EmployeeUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fullname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Farmer">
+    <Key>
+      <PropertyRef Name="FarmerUsername" />
+    </Key>
+    <Property Name="FarmerUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Fullname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="FarmerProducts" Relationship="Self.FarmerFk1" FromRole="Farmer" ToRole="FarmerProduct" />
+  </EntityType>
+  <EntityType Name="FarmerProduct">
+    <Key>
+      <PropertyRef Name="FarmerProductID" />
+    </Key>
+    <Property Name="FarmerProductID" Type="Int32" Nullable="false" />
+    <Property Name="FarmerUsername" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ProductID" Type="Int32" />
+    <NavigationProperty Name="Farmer" Relationship="Self.FarmerFk1" FromRole="FarmerProduct" ToRole="Farmer" />
+    <NavigationProperty Name="Product" Relationship="Self.FKProduct1" FromRole="FarmerProduct" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="Int32" Nullable="false" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Quantity" Type="Int32" />
+    <NavigationProperty Name="FarmerProducts" Relationship="Self.FKProduct1" FromRole="Product" ToRole="FarmerProduct" />
+    <Property Name="DateDelivered" Type="DateTime" Precision="0" />
+  </EntityType>
+  <Association Name="FarmerFk1">
+    <End Role="Farmer" Type="Self.Farmer" Multiplicity="0..1" />
+    <End Role="FarmerProduct" Type="Self.FarmerProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Farmer">
+        <PropertyRef Name="FarmerUsername" />
+      </Principal>
+      <Dependent Role="FarmerProduct">
+        <PropertyRef Name="FarmerUsername" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKProduct1">
+    <End Role="Product" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="FarmerProduct" Type="Self.FarmerProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="FarmerProduct">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FarmerDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Farmers" EntityType="Self.Farmer" />
+    <EntitySet Name="FarmerProducts" EntityType="Self.FarmerProduct" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <AssociationSet Name="FarmerFk1" Association="Self.FarmerFk1">
+      <End Role="Farmer" EntitySet="Farmers" />
+      <End Role="FarmerProduct" EntitySet="FarmerProducts" />
+    </AssociationSet>
+    <AssociationSet Name="FKProduct1" Association="Self.FKProduct1">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="FarmerProduct" EntitySet="FarmerProducts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FarmerDBModelStoreContainer" CdmEntityContainer="FarmerDBEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="FarmerDBModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="EmployeeUsername" ColumnName="EmployeeUsername" />
+          <ScalarProperty Name="Fullname" ColumnName="Fullname" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Farmers">
+      <EntityTypeMapping TypeName="FarmerDBModel.Farmer">
+        <MappingFragment StoreEntitySet="Farmer">
+          <ScalarProperty Name="FarmerUsername" ColumnName="FarmerUsername" />
+          <ScalarProperty Name="Fullname" ColumnName="Fullname" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FarmerProducts">
+      <EntityTypeMapping TypeName="FarmerDBModel.FarmerProduct">
+        <MappingFragment StoreEntitySet="FarmerProduct">
+          <ScalarProperty Name="FarmerProductID" ColumnName="FarmerProductID" />
+          <ScalarProperty Name="FarmerUsername" ColumnName="FarmerUsername" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="FarmerDBModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="DateDelivered" ColumnName="DateDelivered" />
+          <ScalarProperty Name="ProductID" ColumnName="ProductID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

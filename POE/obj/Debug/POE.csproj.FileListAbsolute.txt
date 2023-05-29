@@ -1,0 +1,390 @@
+E:\POE\POE\bin\POE.dll.config
+E:\POE\POE\bin\POE.dll
+E:\POE\POE\bin\POE.pdb
+E:\POE\POE\bin\roslyn\csc.exe
+E:\POE\POE\bin\roslyn\csc.exe.config
+E:\POE\POE\bin\roslyn\csc.rsp
+E:\POE\POE\bin\roslyn\csi.exe
+E:\POE\POE\bin\roslyn\csi.exe.config
+E:\POE\POE\bin\roslyn\csi.rsp
+E:\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\POE\POE\bin\roslyn\System.AppContext.dll
+E:\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+E:\POE\POE\bin\roslyn\System.Console.dll
+E:\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+E:\POE\POE\bin\roslyn\System.IO.Compression.dll
+E:\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+E:\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\POE\POE\bin\roslyn\System.Net.Http.dll
+E:\POE\POE\bin\roslyn\System.Net.Sockets.dll
+E:\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+E:\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\POE\POE\bin\roslyn\System.ValueTuple.dll
+E:\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\POE\POE\bin\roslyn\System.Xml.XPath.dll
+E:\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\POE\POE\bin\roslyn\vbc.exe
+E:\POE\POE\bin\roslyn\vbc.exe.config
+E:\POE\POE\bin\roslyn\vbc.rsp
+E:\POE\POE\bin\roslyn\VBCSCompiler.exe
+E:\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+E:\POE\POE\bin\Antlr3.Runtime.dll
+E:\POE\POE\bin\AspNet.ScriptManager.bootstrap.dll
+E:\POE\POE\bin\AspNet.ScriptManager.jQuery.dll
+E:\POE\POE\bin\EntityFramework.dll
+E:\POE\POE\bin\EntityFramework.SqlServer.dll
+E:\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\POE\POE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\POE\POE\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\POE\POE\bin\Microsoft.ScriptManager.WebForms.dll
+E:\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+E:\POE\POE\bin\Newtonsoft.Json.dll
+E:\POE\POE\bin\System.Web.Optimization.dll
+E:\POE\POE\bin\WebGrease.dll
+E:\POE\POE\bin\EntityFramework.xml
+E:\POE\POE\bin\EntityFramework.SqlServer.xml
+E:\POE\POE\bin\System.Web.Optimization.xml
+E:\POE\POE\bin\Newtonsoft.Json.xml
+E:\POE\POE\bin\Antlr3.Runtime.pdb
+E:\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+E:\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+E:\POE\POE\obj\Debug\POE.csproj.CopyComplete
+E:\POE\POE\obj\Debug\POE.dll
+E:\POE\POE\obj\Debug\POE.pdb
+D:\POE\POE\bin\POE.dll.config
+D:\POE\POE\bin\POE.dll
+D:\POE\POE\bin\POE.pdb
+D:\POE\POE\bin\roslyn\csc.exe
+D:\POE\POE\bin\roslyn\csc.exe.config
+D:\POE\POE\bin\roslyn\csc.rsp
+D:\POE\POE\bin\roslyn\csi.exe
+D:\POE\POE\bin\roslyn\csi.exe.config
+D:\POE\POE\bin\roslyn\csi.rsp
+D:\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\POE\POE\bin\roslyn\System.AppContext.dll
+D:\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+D:\POE\POE\bin\roslyn\System.Console.dll
+D:\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+D:\POE\POE\bin\roslyn\System.IO.Compression.dll
+D:\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+D:\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\POE\POE\bin\roslyn\System.Net.Http.dll
+D:\POE\POE\bin\roslyn\System.Net.Sockets.dll
+D:\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+D:\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\POE\POE\bin\roslyn\System.ValueTuple.dll
+D:\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\POE\POE\bin\roslyn\System.Xml.XPath.dll
+D:\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\POE\POE\bin\roslyn\vbc.exe
+D:\POE\POE\bin\roslyn\vbc.exe.config
+D:\POE\POE\bin\roslyn\vbc.rsp
+D:\POE\POE\bin\roslyn\VBCSCompiler.exe
+D:\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+D:\POE\POE\bin\Antlr3.Runtime.dll
+D:\POE\POE\bin\AspNet.ScriptManager.bootstrap.dll
+D:\POE\POE\bin\AspNet.ScriptManager.jQuery.dll
+D:\POE\POE\bin\EntityFramework.dll
+D:\POE\POE\bin\EntityFramework.SqlServer.dll
+D:\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\POE\POE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POE\POE\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\POE\POE\bin\Microsoft.ScriptManager.WebForms.dll
+D:\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+D:\POE\POE\bin\Newtonsoft.Json.dll
+D:\POE\POE\bin\System.Web.Optimization.dll
+D:\POE\POE\bin\WebGrease.dll
+D:\POE\POE\bin\EntityFramework.xml
+D:\POE\POE\bin\EntityFramework.SqlServer.xml
+D:\POE\POE\bin\System.Web.Optimization.xml
+D:\POE\POE\bin\Newtonsoft.Json.xml
+D:\POE\POE\bin\Antlr3.Runtime.pdb
+D:\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+D:\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+D:\POE\POE\obj\Debug\POE.csproj.CopyComplete
+D:\POE\POE\obj\Debug\POE.dll
+D:\POE\POE\obj\Debug\POE.pdb
+D:\Tet\POE\POE\bin\POE.dll.config
+D:\Tet\POE\POE\bin\POE.dll
+D:\Tet\POE\POE\bin\POE.pdb
+D:\Tet\POE\POE\bin\roslyn\csc.exe
+D:\Tet\POE\POE\bin\roslyn\csc.exe.config
+D:\Tet\POE\POE\bin\roslyn\csc.rsp
+D:\Tet\POE\POE\bin\roslyn\csi.exe
+D:\Tet\POE\POE\bin\roslyn\csi.exe.config
+D:\Tet\POE\POE\bin\roslyn\csi.rsp
+D:\Tet\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tet\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tet\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tet\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tet\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tet\POE\POE\bin\roslyn\System.AppContext.dll
+D:\Tet\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+D:\Tet\POE\POE\bin\roslyn\System.Console.dll
+D:\Tet\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tet\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tet\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tet\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tet\POE\POE\bin\roslyn\System.IO.Compression.dll
+D:\Tet\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tet\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+D:\Tet\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tet\POE\POE\bin\roslyn\System.Net.Http.dll
+D:\Tet\POE\POE\bin\roslyn\System.Net.Sockets.dll
+D:\Tet\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tet\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tet\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tet\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tet\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tet\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tet\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tet\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tet\POE\POE\bin\roslyn\System.ValueTuple.dll
+D:\Tet\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tet\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tet\POE\POE\bin\roslyn\System.Xml.XPath.dll
+D:\Tet\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tet\POE\POE\bin\roslyn\vbc.exe
+D:\Tet\POE\POE\bin\roslyn\vbc.exe.config
+D:\Tet\POE\POE\bin\roslyn\vbc.rsp
+D:\Tet\POE\POE\bin\roslyn\VBCSCompiler.exe
+D:\Tet\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+D:\Tet\POE\POE\bin\Antlr3.Runtime.dll
+D:\Tet\POE\POE\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Tet\POE\POE\bin\AspNet.ScriptManager.jQuery.dll
+D:\Tet\POE\POE\bin\EntityFramework.dll
+D:\Tet\POE\POE\bin\EntityFramework.SqlServer.dll
+D:\Tet\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Tet\POE\POE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Tet\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tet\POE\POE\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Tet\POE\POE\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Tet\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+D:\Tet\POE\POE\bin\Newtonsoft.Json.dll
+D:\Tet\POE\POE\bin\System.Web.Optimization.dll
+D:\Tet\POE\POE\bin\WebGrease.dll
+D:\Tet\POE\POE\bin\EntityFramework.xml
+D:\Tet\POE\POE\bin\EntityFramework.SqlServer.xml
+D:\Tet\POE\POE\bin\System.Web.Optimization.xml
+D:\Tet\POE\POE\bin\Newtonsoft.Json.xml
+D:\Tet\POE\POE\bin\Antlr3.Runtime.pdb
+D:\Tet\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Tet\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tet\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+D:\Tet\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+D:\Tet\POE\POE\obj\Debug\POE.csproj.CopyComplete
+D:\Tet\POE\POE\obj\Debug\POE.dll
+D:\Tet\POE\POE\obj\Debug\POE.pdb
+E:\Test POE\POE\POE\bin\POE.dll.config
+E:\Test POE\POE\POE\bin\POE.dll
+E:\Test POE\POE\POE\bin\POE.pdb
+E:\Test POE\POE\POE\bin\roslyn\csc.exe
+E:\Test POE\POE\POE\bin\roslyn\csc.exe.config
+E:\Test POE\POE\POE\bin\roslyn\csc.rsp
+E:\Test POE\POE\POE\bin\roslyn\csi.exe
+E:\Test POE\POE\POE\bin\roslyn\csi.exe.config
+E:\Test POE\POE\POE\bin\roslyn\csi.rsp
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Test POE\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Test POE\POE\POE\bin\roslyn\System.AppContext.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Console.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+E:\Test POE\POE\POE\bin\roslyn\System.IO.Compression.dll
+E:\Test POE\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Test POE\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+E:\Test POE\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Net.Http.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Net.Sockets.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Test POE\POE\POE\bin\roslyn\System.ValueTuple.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Xml.XPath.dll
+E:\Test POE\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Test POE\POE\POE\bin\roslyn\vbc.exe
+E:\Test POE\POE\POE\bin\roslyn\vbc.exe.config
+E:\Test POE\POE\POE\bin\roslyn\vbc.rsp
+E:\Test POE\POE\POE\bin\roslyn\VBCSCompiler.exe
+E:\Test POE\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+E:\Test POE\POE\POE\bin\Antlr3.Runtime.dll
+E:\Test POE\POE\POE\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Test POE\POE\POE\bin\AspNet.ScriptManager.jQuery.dll
+E:\Test POE\POE\POE\bin\EntityFramework.dll
+E:\Test POE\POE\POE\bin\EntityFramework.SqlServer.dll
+E:\Test POE\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Test POE\POE\POE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Test POE\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Test POE\POE\POE\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Test POE\POE\POE\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Test POE\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+E:\Test POE\POE\POE\bin\Newtonsoft.Json.dll
+E:\Test POE\POE\POE\bin\System.Web.Optimization.dll
+E:\Test POE\POE\POE\bin\WebGrease.dll
+E:\Test POE\POE\POE\bin\EntityFramework.xml
+E:\Test POE\POE\POE\bin\EntityFramework.SqlServer.xml
+E:\Test POE\POE\POE\bin\System.Web.Optimization.xml
+E:\Test POE\POE\POE\bin\Newtonsoft.Json.xml
+E:\Test POE\POE\POE\bin\Antlr3.Runtime.pdb
+E:\Test POE\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Test POE\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Test POE\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+E:\Test POE\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+E:\Test POE\POE\POE\obj\Debug\POE.csproj.CopyComplete
+E:\Test POE\POE\POE\obj\Debug\POE.dll
+E:\Test POE\POE\POE\obj\Debug\POE.pdb
+D:\Test POE\POE\POE\bin\POE.dll.config
+D:\Test POE\POE\POE\bin\POE.dll
+D:\Test POE\POE\POE\bin\POE.pdb
+D:\Test POE\POE\POE\bin\roslyn\csc.exe
+D:\Test POE\POE\POE\bin\roslyn\csc.exe.config
+D:\Test POE\POE\POE\bin\roslyn\csc.rsp
+D:\Test POE\POE\POE\bin\roslyn\csi.exe
+D:\Test POE\POE\POE\bin\roslyn\csi.exe.config
+D:\Test POE\POE\POE\bin\roslyn\csi.rsp
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test POE\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Test POE\POE\POE\bin\roslyn\System.AppContext.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Console.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+D:\Test POE\POE\POE\bin\roslyn\System.IO.Compression.dll
+D:\Test POE\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Test POE\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+D:\Test POE\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Net.Http.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Net.Sockets.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Test POE\POE\POE\bin\roslyn\System.ValueTuple.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Xml.XPath.dll
+D:\Test POE\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test POE\POE\POE\bin\roslyn\vbc.exe
+D:\Test POE\POE\POE\bin\roslyn\vbc.exe.config
+D:\Test POE\POE\POE\bin\roslyn\vbc.rsp
+D:\Test POE\POE\POE\bin\roslyn\VBCSCompiler.exe
+D:\Test POE\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+D:\Test POE\POE\POE\bin\Antlr3.Runtime.dll
+D:\Test POE\POE\POE\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Test POE\POE\POE\bin\AspNet.ScriptManager.jQuery.dll
+D:\Test POE\POE\POE\bin\EntityFramework.dll
+D:\Test POE\POE\POE\bin\EntityFramework.SqlServer.dll
+D:\Test POE\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Test POE\POE\POE\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Test POE\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test POE\POE\POE\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Test POE\POE\POE\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Test POE\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+D:\Test POE\POE\POE\bin\Newtonsoft.Json.dll
+D:\Test POE\POE\POE\bin\System.Web.Optimization.dll
+D:\Test POE\POE\POE\bin\WebGrease.dll
+D:\Test POE\POE\POE\bin\EntityFramework.xml
+D:\Test POE\POE\POE\bin\EntityFramework.SqlServer.xml
+D:\Test POE\POE\POE\bin\System.Web.Optimization.xml
+D:\Test POE\POE\POE\bin\Newtonsoft.Json.xml
+D:\Test POE\POE\POE\bin\Antlr3.Runtime.pdb
+D:\Test POE\POE\POE\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Test POE\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test POE\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+D:\Test POE\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+D:\Test POE\POE\POE\obj\Debug\POE.csproj.CopyComplete
+D:\Test POE\POE\POE\obj\Debug\POE.dll
+D:\Test POE\POE\POE\obj\Debug\POE.pdb

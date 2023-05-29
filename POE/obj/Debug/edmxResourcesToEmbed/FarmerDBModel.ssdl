@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FarmerDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeUsername" />
+    </Key>
+    <Property Name="EmployeeUsername" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fullname" Type="varchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Farmer">
+    <Key>
+      <PropertyRef Name="FarmerUsername" />
+    </Key>
+    <Property Name="FarmerUsername" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Fullname" Type="varchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="FarmerProduct">
+    <Key>
+      <PropertyRef Name="FarmerProductID" />
+    </Key>
+    <Property Name="FarmerProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FarmerUsername" Type="varchar" MaxLength="50" />
+    <Property Name="ProductID" Type="int" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="50" />
+    <Property Name="Description" Type="varchar" MaxLength="50" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="DateDelivered" Type="date" />
+  </EntityType>
+  <Association Name="FarmerFk1">
+    <End Role="Farmer" Type="Self.Farmer" Multiplicity="0..1" />
+    <End Role="FarmerProduct" Type="Self.FarmerProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Farmer">
+        <PropertyRef Name="FarmerUsername" />
+      </Principal>
+      <Dependent Role="FarmerProduct">
+        <PropertyRef Name="FarmerUsername" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKProduct1">
+    <End Role="Product" Type="Self.Product" Multiplicity="0..1" />
+    <End Role="FarmerProduct" Type="Self.FarmerProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="FarmerProduct">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FarmerDBModelStoreContainer">
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Farmer" EntityType="Self.Farmer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FarmerProduct" EntityType="Self.FarmerProduct" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FarmerFk1" Association="Self.FarmerFk1">
+      <End Role="Farmer" EntitySet="Farmer" />
+      <End Role="FarmerProduct" EntitySet="FarmerProduct" />
+    </AssociationSet>
+    <AssociationSet Name="FKProduct1" Association="Self.FKProduct1">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="FarmerProduct" EntitySet="FarmerProduct" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
